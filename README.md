@@ -1,0 +1,2 @@
+# LYImageLoop
+图片无限循环轮播器,使用collectionView代替scrollView
